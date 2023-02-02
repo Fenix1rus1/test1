@@ -6,3 +6,7 @@ body{
 .main{
     background-color: aqua;
 }
+h1{
+    font-style: italic;
+    color: blue;
+}
