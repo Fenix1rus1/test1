@@ -1,6 +1,7 @@
 body{
-    display: grid;
-    
+
+    background-color: aliceblue;
+    color: blue;
 }
 .main{
     background-color: aqua;
